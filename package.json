@@ -1,5 +1,6 @@
 {
   "name": "weather_illu",
+  "homepage": "https://i384125.hera.fhict.nl/build_weather/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
